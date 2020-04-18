@@ -1,4 +1,4 @@
-Category,Upstream technology bias,Training data bias,Developer bias,Model bias,Unilateral bias,Law bias,User bias,Context bias,Automation bias,Board-level bias,Ethical development,Algorithmic Accountability,Algorithmic Transparency,Diversity of teams,FACT Principles,Governance,supervised unsupervised,automation augmentation,Algorithm audits,Magnitude of damage
+Category,Upstream technology bias,Training data bias,Developer bias,Model bias,Unilateral bias,Law bias,User bias,Context bias,Automation bias,Board-level oversight,Ethical development,Algorithmic Accountability,Algorithmic Transparency,Diversity of teams,FACT Principles,Governance,supervised unsupervised,automation augmentation,Algorithm audits,Magnitude of damage
 Healthcare,1,0,0,1,0,0,0,1,1,0,2,2,2,0,1,1,2,2,1,1
 Healthcare,1,1,0,1,0,1,1,1,0,0,1,1,2,1,1,1,1,2,1,2
 Healthcare,0,1,0,1,0,0,0,1,0,0,1,2,2,2,2,2,0,1,2,0
